@@ -8,6 +8,10 @@ Lista dos melhores links sobre Vim.
 - [uma-licao-de-vim](https://github.com/jbiason/uma-licao-de-vim)
 - [um-vim-por-dia](https://github.com/jbiason/um-vim-por-dia)
 
+## Artigos
+
+- [Vim after 15 years](https://statico.github.io/vim3.html)
+
 ## Ferramentas
 
 - [vim-addon-manager](https://github.com/MarcWeber/vim-addon-manager)
