@@ -42,6 +42,7 @@ Lista dos melhores links sobre Vim.
 
 - [node-vim-debugger](https://github.com/sidorares/node-vim-debugger)
 - [vim-es6](https://github.com/isRuslan/vim-es6)
+- [Aurélio - Vim](http://aurelio.net/vim/)
 
 
 ## .vimrc
