@@ -20,6 +20,7 @@ Lista dos melhores links sobre Vim.
 - [vim-bootstrap](https://github.com/avelino/vim-bootstrap)
 - [rest-console](https://github.com/diepm/vim-rest-console)
 - [php-qa](https://github.com/joonty/vim-phpqa)
+- [vim-interactive-cheat-sheet](https://github.com/nyl-auster/vim-interactive-cheat-sheet)
 
 
 ## Plugins
